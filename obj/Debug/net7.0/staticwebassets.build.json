@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "WRV8SdRWbNU2yAk2nrAIgJEdfPKsSWZHgj7KS4DYIzk=",
+  "Source": "prototipoGestao",
+  "BasePath": "_content/prototipoGestao",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "prototipoGestao\\wwwroot",
+      "Source": "prototipoGestao",
+      "ContentRoot": "C:\\Users\\MARCOSVINICIUSDAROCH\\Desktop\\PROJETO LIMPO\\api-prova\\wwwroot\\",
+      "BasePath": "_content/prototipoGestao",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\MARCOSVINICIUSDAROCH\\Desktop\\PROJETO LIMPO\\api-prova\\wwwroot\\css\\style.css",
+      "SourceId": "prototipoGestao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MARCOSVINICIUSDAROCH\\Desktop\\PROJETO LIMPO\\api-prova\\wwwroot\\",
+      "BasePath": "_content/prototipoGestao",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\MARCOSVINICIUSDAROCH\\Desktop\\PROJETO LIMPO\\api-prova\\wwwroot\\index.html",
+      "SourceId": "prototipoGestao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MARCOSVINICIUSDAROCH\\Desktop\\PROJETO LIMPO\\api-prova\\wwwroot\\",
+      "BasePath": "_content/prototipoGestao",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\MARCOSVINICIUSDAROCH\\Desktop\\PROJETO LIMPO\\api-prova\\wwwroot\\js\\app.js",
+      "SourceId": "prototipoGestao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MARCOSVINICIUSDAROCH\\Desktop\\PROJETO LIMPO\\api-prova\\wwwroot\\",
+      "BasePath": "_content/prototipoGestao",
+      "RelativePath": "js/app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
+    }
+  ]
+}
